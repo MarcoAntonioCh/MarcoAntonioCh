@@ -6,7 +6,13 @@
     <li>Hoje em dia estudo programação focada no ecossistema Java, buscando aprender e aplicar todos os recursos disponibilizados pela Linguagem</li>
 </ul>
 
-![MarcoAntonioCh GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAntonioCh&show_icons=true&theme=tokyonight)
+###Github Stats
+<div>
+  <a href="https://github.com/MarcoAntonioCh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioCh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/MarcoAntonioCh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioCh&layout=compact&theme=dracula"/></a>
+</div>
 
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br/>
