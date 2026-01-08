@@ -1,7 +1,7 @@
 ### Olá! Sou o Marco Antônio 👍
 
 <div>
-    <a href="linkedin.com/in/marcoantonioch">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+    <a href="www.linkedin.com/in/marcoantonioch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <ul>
