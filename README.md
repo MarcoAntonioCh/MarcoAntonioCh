@@ -1,8 +1,6 @@
 ### Olá! Sou o Marco Antônio 👍
 
-<div>
-    <a href="www.linkedin.com/in/marcoantonioch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcoantonioch)
 
 <ul>
     <li>Atualmente cursando Análise e Desenvolvimento de Sistemas</li>
