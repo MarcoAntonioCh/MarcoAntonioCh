@@ -1,5 +1,7 @@
 ### Olá! Sou o Marco Antônio 👍
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <ul>
     <li>Atualmente cursando Análise e Desenvolvimento de Sistemas</li>
     <li>Formado no curso Técnico em Desenvolvimento de Sistemas pela Etec</li>
